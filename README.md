@@ -40,7 +40,7 @@ inside the folder "Back-End/public".
 
 ## Live demo
 
-[https://my-portfolio-public.herokuapp.com/](https://tiagoribeiro.up.railway.app/)
+[Live Demo](https://tiagoribeiro.up.railway.app/)
 
 ## Author
 
