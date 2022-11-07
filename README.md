@@ -5,6 +5,10 @@ with Vue.js for the front-end and Node.js with Express for the back-end.
 
 ## How to run
 
+Before running the project, you need to create a file ".env" in the "./Back-End"
+folder with the content of the ".env.example" file and replace the values with
+your API keys.
+
 ### Front-End
 
 ```
