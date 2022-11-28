@@ -32,7 +32,7 @@ export default {
           title: "Guess the Country",
           description:
             "A simple hangman style game where you with 5 lives and you have to guess the country name by typing in the letters. Every time you guess a letter wrong, you lose a life.",
-          link: "https://guess-country.up.railway.app/",
+          link: "https://guess-country.cyclic.app",
           github: "https://github.com/TiagoRibeiro25/guess",
           tools: ["Vanilla JS", "HTML", "CSS", "Node.js", "Express.js"],
           image: guessImg,
