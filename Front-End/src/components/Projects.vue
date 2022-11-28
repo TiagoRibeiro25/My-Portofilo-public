@@ -41,7 +41,7 @@ export default {
           title: "Image Slider",
           description:
             "A simple is a matching puzzle that challenges a player to slide pieces along certain routes to establish a certain final configuration.",
-          link: "https://image-slider-2022.herokuapp.com/",
+          link: "https://img-slider.onrender.com/",
           github: "https://github.com/TiagoRibeiro25/Image-slider",
           tools: ["Vanilla JS", "HTML", "CSS", "P5.js"],
           image: sliderImg,
