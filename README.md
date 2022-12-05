@@ -44,7 +44,7 @@ inside the folder "Back-End/public".
 
 ## Live demo
 
-[Live Demo](https://tiagoribeiro.cyclic.app)
+[Live Demo](https://tiagoribeiro.up.railway.app/)
 
 ## Author
 
